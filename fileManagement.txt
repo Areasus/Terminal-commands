@@ -1,0 +1,8 @@
+mkdir new_folder #create new dir new_folder
+rmdir test_folder1 #REMOVE folder_name
+rmdir /s folder_name #REMOVE DIR AND ALL OF ITS CONTNET
+mv old_name.txt new_name.txt  #rename file 
+mv file1.txt /new_location/_new1/  #move tonew location
+cp file.txt fileCopy.txt #creat copy of files
+cp -r dir1 dir2 #co-py directory
+

@@ -1,0 +1,8 @@
+cls #clear 
+pwd #print current working directory
+cd . #change directory
+cd .. #back to prev directory
+cd folder_name or path # go to named folder_name
+ls #list all files/folders
+dir #same as ls but detailed
+
